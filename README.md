@@ -5,7 +5,7 @@ To build a Decision Tree classification model to predict whether a customer will
 
 ## Dataset
 - Bank Marketing Dataset
-- Source: UCI Machine Learning Repository / Kaggle
+- Source: UCI Machine Learning Repository 
 - Target Variable: `y` (yes/no)
 
 ## Methodology
